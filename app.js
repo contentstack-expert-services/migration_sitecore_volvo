@@ -15,11 +15,10 @@ global.successLogger = require("./utils/logger")("success").log;
 global.warnLogger = require("./utils/logger")("warn").log;
 
 var modulesList = [
-  // "assets",
+  "assets",
   "content_type",
   "entries",
 ]; //to create entries
-// var contentList = ["convert"]; // to create content type for the entries
 var _export = [];
 
 const migFunction = () => {
@@ -38,19 +37,6 @@ const migFunction = () => {
       );
     }
 
-    // Content List
-    //create schema for the entries we  have created
-    // for (var i = 0, total = contentList.length; i < total; i++) {
-    //   var ContentExport = require("./content_types/" + contentList[i] + ".js");
-    //   var contentExport = new ContentExport();
-    //   _export.push(
-    //     (function (contentExport) {
-    //       return function () {
-    //         return contentExport.start();
-    //       };
-    //     })(contentExport)
-    //   );
-    // }
   } catch (error) {
     console.log(error.message);
   }
@@ -66,28 +52,6 @@ const migFunction = () => {
       errorLogger(error);
     });
   };
-
-// to check if file exist or not
-// const fileCheck = (csFileName, csFilePath) => {
-//   const allowedExtension = ".xml";
-//   const extension = path.extname(global.config.xml_filename);
-//   if (allowedExtension === extension) {
-//     if (fs.existsSync(global.config.xml_filename)) {
-//       migFunction();
-//     } else {
-//       console.log(
-//         chalk.red(`Please check`),
-//         chalk.yellow(`File name "${csFileName}"`),
-//         chalk.red(`or`),
-//         chalk.yellow(`Filepath "${csFilePath}"`),
-//         chalk.red(`are valid or not and try again!`)
-//       );
-//       XMLMigration();
-//     }
-//   } else {
-//     console.log(chalk.red("use only .xml extension file"));
-//   }
-// };
 
 module.exports = XMLMigration = async () => {
   const question = [
