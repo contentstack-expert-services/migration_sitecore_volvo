@@ -1,0 +1,7 @@
+{"level":"error","message":"Content Type update failed. Please try again. schema should have a 'url' field."}
+{"level":"error","message":"Failed to migrate stack: Volvo Test 1. Please check error logs for more info"}
+{"level":"error","message":"Failed to import content types"}
+{"level":"error","message":"The log for this is stored at C:\\Users\\Viranch Dave\\Downloads\\Sitecore (Volvo Cars) 2\\Sitecore (Volvo Cars)\\sitecoreMigrationData\\logs\\import"}
+{"level":"error","message":"socket hang up"}
+{"level":"error","message":"socket hang up"}
+{"level":"error","message":"No custom-roles found"}

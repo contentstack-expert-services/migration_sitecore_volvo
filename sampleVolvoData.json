@@ -1,0 +1,3637 @@
+{
+  "status": 200,
+  "operationId": null,
+  "data": {
+    "contentType": {
+      "id": "pdpPage",
+      "type": "PageType"
+    },
+    "sys": {
+      "id": "b5cd3a9b-e603-496a-9004-f0c2cbbe7e31",
+      "type": "Entry",
+      "createdAt": "2022-05-13T08:08:14",
+      "updatedAt": "2022-11-17T08:15:27"
+    },
+    "name": "pdp",
+    "fields": {
+      "title": "C40 Recharge pure electric - Overview | Volvo Cars - Master",
+      "productClass": "Crossover",
+      "OXPSitemapUrl": "",
+      "importVersion": "20221107.02",
+      "enableRevealAnimations": false,
+      "ogImage": {
+        "title": "",
+        "description": "",
+        "file": {
+          "mediaType": "image/jpeg",
+          "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-og.jpg?h=630&iar=0&w=1200",
+          "name": "c40-bev-og",
+          "description": "",
+          "details": {
+            "size": 57459,
+            "image": {
+              "alt": "The side profile of a blue Volvo C40 Recharge.",
+              "width": 1200,
+              "height": 630
+            }
+          }
+        }
+      },
+      "ogTitle": "Volvo C40 Recharge – Our pure electric crossover | Volvo Cars",
+      "ogDescription": "Discover the pure electric C40 Recharge and start your order online. Learn more.  ",
+      "metaDescription": "Discover C40 Recharge – our pure electric crossover with leather free interior and Google built-in. Learn more and start your order online today.",
+      "excludeFromSearchEngine": false,
+      "canonicalUrl": "",
+      "pageTitle": "Volvo C40 Recharge pure electric | Volvo Cars",
+      "isAkamaiDisabled": false,
+      "cacheControlmaxAge": null
+    },
+    "slots": {
+      "pdpsInfoBannerSlot": [],
+      "pdpSubMenuSlot": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "background": "",
+            "bottomOuterSpacing": "",
+            "topInnerSpacing": "",
+            "bottomInnerSpacing": "",
+            "forceCompact": "True"
+          },
+          "contentType": {
+            "id": "pdpSubMenu",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {}
+        }
+      ],
+      "pdpsStickyFooterSlot": [],
+      "pdpSignUpCallbackSlot": [],
+      "heroSlot": [
+        {
+          "renderingParams": {
+            "topInnerSpacing": "",
+            "bottomInnerSpacing": "12",
+            "topOuterSpacing": "",
+            "background": "",
+            "bottomOuterSpacing": ""
+          },
+          "contentType": {
+            "id": "hero",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{08DB9128-A498-44CD-AB90-3031360F0CED}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "videoUltrawideMp4": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "video/mp4",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-21x9-video.mp4",
+                "name": "c40-bev-hero-21x9-video",
+                "description": "",
+                "details": {
+                  "size": 2628688,
+                  "image": null
+                }
+              }
+            },
+            "disableFullWidthHero": false,
+            "imageUltrawide": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-21x9.jpg?h=1096&iar=0&w=2560",
+                "name": "c40-bev-hero-21x9",
+                "description": "",
+                "details": {
+                  "size": 110178,
+                  "image": {
+                    "alt": "The side profile of a blue Volvo C40 Recharge.",
+                    "width": 2560,
+                    "height": 1096
+                  }
+                }
+              }
+            },
+            "imageSquare": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-1x1.jpg?h=1080&iar=0&w=1080",
+                "name": "c40-bev-hero-1x1",
+                "description": "",
+                "details": {
+                  "size": 59829,
+                  "image": {
+                    "alt": "The side profile of a blue Volvo C40 Recharge.",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                }
+              }
+            },
+            "videoSquareMp4": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "video/mp4",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-1x1-video.mp4",
+                "name": "c40-bev-hero-1x1-video",
+                "description": "",
+                "details": {
+                  "size": 1157878,
+                  "image": null
+                }
+              }
+            },
+            "disclaimer": "",
+            "videoSquareWebm": null,
+            "videoUltrawideWebm": null
+          }
+        }
+      ],
+      "interactiveHeroSlot": [],
+      "pdpsTeaseHeroSequenceSlot": [],
+      "pdpsILSafetyAndPollutionSlot": [],
+      "pdpsInfoBoxSlot": [],
+      "pdpsInlineMessageSlot": [],
+      "introWithPricesAndOverlaySlot": [
+        {
+          "renderingParams": {
+            "background": "",
+            "bottomOuterSpacing": "12",
+            "topOuterSpacing": "",
+            "bottomInnerSpacing": "",
+            "topInnerSpacing": "",
+            "maxWidth10Columns": false
+          },
+          "contentType": {
+            "id": "introWithPricesAndOverlay",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{AEC38A43-AEB1-4FD5-9E94-3F21D8A47B2D}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "ariaLabelBuyCTA": "",
+            "isOnlineSalesModel": true,
+            "alternativePriceValue": "",
+            "subscribePriceSuffix": "",
+            "disclaimerTexts": "* Your order will be finalised with your retailer according to their terms and conditions.",
+            "buyPricePrefix": "",
+            "b2bCtaC": null,
+            "subTitle": "Discover our pure electric crossover with leather free interior and Google built-in. Start your order online today.*",
+            "subscribePricePrefix": "",
+            "buyPriceSuffix": "",
+            "ctaTitle": "Some CTA",
+            "msrpTitle": "MSRP",
+            "alternativeMsrpValue": "",
+            "subscribeTitle": "",
+            "alternativeSubscribeValue": "Subscribe now",
+            "learnMoreOverlay": [],
+            "deliveryTimeInfo": "",
+            "deliveryTimeLearnMore": "",
+            "popUpDisclaimer": [],
+            "title": "The shape of things to come.",
+            "ariaLabelSubscribeCTA": "",
+            "buyTitle": "Buy now",
+            "disclaimerTitle": "",
+            "useTitlePopUpDisclaimer": false,
+            "disclaimerLink": null
+          }
+        }
+      ],
+      "pdpsUkIntroWithPricesAndOverlaySlot": [],
+      "pdpsHorizontalModelStatsCalloutSlot": [],
+      "pdpsSlidingGallerySlot": [],
+      "pdpsFeatureHighlightsSlot": [],
+      "pdpsMasonryGallerySlot": [],
+      "galleryGridSlot": [
+        {
+          "renderingParams": {
+            "topInnerSpacing": "",
+            "marginsOnMobile": false,
+            "topOuterSpacing": "",
+            "bottomInnerSpacing": "",
+            "hideHeading": false,
+            "bottomOuterSpacing": "12",
+            "background": ""
+          },
+          "contentType": {
+            "id": "galleryGrid",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{B3F52BDF-2419-40E3-866A-CAEBB95FDD91}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "items": [
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "3fc0bb3d-6d5c-4f03-8eeb-6626ce1158ca",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-1-1x1.jpg?h=3000&iar=0&w=3000",
+                      "name": "c40-bev-gallery-1-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 425426,
+                        "image": {
+                          "alt": "Volvo XC40 Recharge pure electric exterior front design with charger and charging station.",
+                          "width": 3000,
+                          "height": 3000
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-1-16x9.jpg?h=1688&iar=0&w=3000",
+                      "name": "c40-bev-gallery-1-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 225100,
+                        "image": {
+                          "alt": "Volvo XC40 Recharge pure electric exterior front design with charger and charging station.",
+                          "width": 3000,
+                          "height": 1688
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-1-21x9.jpg?h=1688&iar=0&w=3000",
+                      "name": "c40-bev-gallery-1-21x9",
+                      "description": "",
+                      "details": {
+                        "size": 225100,
+                        "image": {
+                          "alt": "",
+                          "width": 3000,
+                          "height": 1688
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Volvo XC40 Recharge pure electric exterior front design with charger and charging station."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "c72f29f2-ad52-41ef-b1aa-1e1e9433f12f",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-2-1x1-alt.jpg?h=1920&iar=0&w=1920",
+                      "name": "c40-bev-gallery-2-1x1-alt",
+                      "description": "",
+                      "details": {
+                        "size": 84091,
+                        "image": {
+                          "alt": "Standard fixed panoramic roof on Volvo C40 Recharge.",
+                          "width": 1920,
+                          "height": 1920
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-2-16x9-alt.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-2-16x9-alt",
+                      "description": "",
+                      "details": {
+                        "size": 98785,
+                        "image": {
+                          "alt": "Standard fixed panoramic roof on Volvo C40 Recharge.",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Standard fixed panoramic roof on Volvo C40 Recharge."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "2bd2798e-3fef-4dbe-b197-cca9b5998805",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-3-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-3-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 677637,
+                        "image": {
+                          "alt": "Back-lit instrument panel with decor on the Volvo C40 Recharge.",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-3-16x9.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-3-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 2482709,
+                        "image": {
+                          "alt": "Back-lit instrument panel with decor on the Volvo C40 Recharge.",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-3-4x3.jpg?h=1440&iar=0&w=1920",
+                      "name": "c40-bev-gallery-3-4x3",
+                      "description": "",
+                      "details": {
+                        "size": 1718490,
+                        "image": {
+                          "alt": "Back-lit instrument panel with decor on the Volvo C40 Recharge.",
+                          "width": 1920,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Back-lit instrument panel with decor on the Volvo C40 Recharge."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "b8b251a6-1a8b-448d-ab56-b04e2ed6b52a",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-4-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-4-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 151165,
+                        "image": {
+                          "alt": "Centre console on Volvo C40 Recharge showing Google Assistant.",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-4-16x9.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-4-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 400658,
+                        "image": {
+                          "alt": "Centre console on Volvo C40 Recharge showing Google Assistant.",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Centre console on Volvo C40 Recharge showing Google Assistant."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "b67791c6-751d-498f-9f70-57700645613e",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-5-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-5-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 485686,
+                        "image": {
+                          "alt": "Side view of Volvo C40 Recharge interior leather free seating. ",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-5-16x9.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-5-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 1511917,
+                        "image": {
+                          "alt": "Side view of Volvo C40 Recharge interior leather free seating. ",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Side view of Volvo C40 Recharge interior leather free seating. "
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "adc60a3f-bdde-444b-8e0e-7db63f8bea7e",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-6-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-6-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 354358,
+                        "image": {
+                          "alt": "Front side view of Volvo C40 Recharge in darkened blue indoor room.",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-6-16x9.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-6-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 927393,
+                        "image": {
+                          "alt": "Front side view of Volvo C40 Recharge in darkened blue indoor room.",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Front side view of Volvo C40 Recharge in darkened blue indoor room."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f579451f-283b-46d4-bc51-a1ea6d3ad5f2",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-7-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-7-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 520724,
+                        "image": {
+                          "alt": "Wheel, headlight and side front section of Volvo C40 Recharge.",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-7-16x9.jpg?h=1440&iar=0&w=2560",
+                      "name": "c40-bev-gallery-7-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 1704445,
+                        "image": {
+                          "alt": "Wheel, headlight and side front section of Volvo C40 Recharge.",
+                          "width": 2560,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Wheel, headlight and side front section of Volvo C40 Recharge."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "b48c6aca-7d5d-45e4-8d63-1fc0b97c3c19",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-8-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-8-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 356084,
+                        "image": {
+                          "alt": "A close-up image of the top rear profile of a Volvo C40 Recharge. ",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-8-16x9.jpg?h=1080&iar=0&w=1920",
+                      "name": "c40-bev-gallery-8-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 636412,
+                        "image": {
+                          "alt": "A close-up image of the top rear profile of a Volvo C40 Recharge. ",
+                          "width": 1920,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "A close-up image of the top rear profile of a Volvo C40 Recharge. "
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "c3e0dd13-c319-4c62-a6bb-511db9038f15",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-9-1x1.jpg?h=1080&iar=0&w=1080",
+                      "name": "c40-bev-gallery-9-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 83167,
+                        "image": {
+                          "alt": "From a rear elevated position we see the panoramic roof of a Volvo C40 Recharge. ",
+                          "width": 1080,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "video/mp4",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-9-1x1-video.mp4",
+                      "name": "c40-bev-gallery-9-1x1-video",
+                      "description": "",
+                      "details": {
+                        "size": 1221801,
+                        "image": null
+                      }
+                    }
+                  },
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-9-16x9.jpg?h=1080&iar=0&w=1920",
+                      "name": "c40-bev-gallery-9-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 108171,
+                        "image": {
+                          "alt": "From a rear elevated position we see the panoramic roof of a Volvo C40 Recharge. ",
+                          "width": 1920,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "video/mp4",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-9-16x9-video.mp4",
+                      "name": "c40-bev-gallery-9-16x9-video",
+                      "description": "",
+                      "details": {
+                        "size": 1705823,
+                        "image": null
+                      }
+                    }
+                  },
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "From a rear elevated position we see the panoramic roof of a Volvo C40 Recharge. "
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "gallerygridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "01ecc1fd-14b9-4011-bb37-f1e47420c47a",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "videoDescription": "",
+                  "imageSquare": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-10-1x1.jpg?h=3000&iar=0&w=3000",
+                      "name": "c40-bev-gallery-10-1x1",
+                      "description": "",
+                      "details": {
+                        "size": 513517,
+                        "image": {
+                          "alt": "Volvo C40 Recharge seen from elevated side position.",
+                          "width": 3000,
+                          "height": 3000
+                        }
+                      }
+                    }
+                  },
+                  "videoStandardWebm": null,
+                  "videoSquareMp4": null,
+                  "imageWide": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-gallery-10-16x9.jpg?h=1688&iar=0&w=3000",
+                      "name": "c40-bev-gallery-10-16x9",
+                      "description": "",
+                      "details": {
+                        "size": 225483,
+                        "image": {
+                          "alt": "Volvo C40 Recharge seen from elevated side position.",
+                          "width": 3000,
+                          "height": 1688
+                        }
+                      }
+                    }
+                  },
+                  "videoWideWebm": null,
+                  "videoWideMp4": null,
+                  "imageStandard": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoSquareWebm": null,
+                  "videoUltraWideWebm": null,
+                  "videoStandardMp4": null,
+                  "imageUltraWide": {
+                    "title": null,
+                    "description": null,
+                    "file": {
+                      "mediaType": null,
+                      "url": null,
+                      "name": null,
+                      "description": null,
+                      "details": {
+                        "size": 0,
+                        "image": {
+                          "alt": null,
+                          "width": 0,
+                          "height": 0
+                        }
+                      }
+                    }
+                  },
+                  "videoUltraWideMp4": null,
+                  "disclaimer": "",
+                  "alternateText": "Volvo C40 Recharge seen from elevated side position."
+                },
+                "slots": null
+              }
+            ],
+            "ctaLabel": "Open gallery",
+            "text": "",
+            "ctaLink": null,
+            "heading": "",
+            "showPlayPauseButton": false,
+            "disclaimer": ""
+          }
+        }
+      ],
+      "scatteredGallerySlot": [],
+      "pdpsInteriorRoomsOverviewSlot": [],
+      "statsAndDriveCalloutsSlot": [
+        {
+          "renderingParams": {
+            "bottomInnerSpacing": "",
+            "topOuterSpacing": "",
+            "background": "",
+            "topInnerSpacing": "",
+            "bottomOuterSpacing": "12"
+          },
+          "contentType": {
+            "id": "statsAndDriveCallouts",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{CD380C62-1A28-4975-95F1-69E025CABA7A}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "subTitle": "Get to know our electric crossover.",
+            "videoWebm": null,
+            "calloutItems": [
+              {
+                "contentType": {
+                  "id": "calloutItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "a3931609-5b5f-4d36-a830-d27a9e853e9b",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "title": "Fewer charging minutes, more miles",
+                  "popUpDisclaimer": [],
+                  "description": "Our next generation electric powertrains increase the capacity of your C40 Recharge, giving you longer range and quicker DC fast charging."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "calloutItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "0dbfd356-dd0c-4846-ad3a-8243d063f98e",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "title": "No compromises",
+                  "popUpDisclaimer": [],
+                  "description": "The C40 Recharge doesn’t force you to choose between power and responsible driving. Just take your seat, drive away and enjoy the comfort of one pedal drive and smooth acceleration – with zero tailpipe emissions."
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "calloutItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f5c2ce21-c19c-46ae-b397-4e007ea54d72",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "title": "Rear-wheel agility",
+                  "popUpDisclaimer": [],
+                  "description": "The C40 Recharge is available with a single or twin motor powertrain. The now rear-wheel drive single powertrain enhances the power and agility of the car, making your ride even more enjoyable."
+                },
+                "slots": null
+              }
+            ],
+            "disclaimer": "The figures are preliminary and derived from estimates and calculations performed by Volvo Cars for C40 Recharge twin and these outcomes are not guaranteed. The real-life driving range and energy consumption achieved under real conditions varies depending on driving behaviour and other external factors. Charging times can vary and are dependent on factors such as outdoor temperature, current battery temperature, charging equipment, battery condition and car condition. Vehicle certification pending. Open full [Specifications](https://authoring.volvocars.com/master/cars/c40-electric/specification/) to review other powertrain options.",
+            "bevOrPhevType": "BEV/PHEV",
+            "statsItems": [
+              {
+                "contentType": {
+                  "id": "statsItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "ecd4633d-73f5-4464-a8e4-d6855b5aa999",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "additionalText": "",
+                  "attribute": "Electric range",
+                  "unit": "km",
+                  "value": "Up to 507",
+                  "fieldKey": "electric-range-wltp-total",
+                  "popUpDisclaimer": []
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "statsItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "9e05e52c-9949-4b0d-8006-cb4f1b6556e4",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "additionalText": "",
+                  "attribute": "Acceleration (0-100 km/h)",
+                  "unit": "s",
+                  "value": "4.7",
+                  "fieldKey": "acceleration",
+                  "popUpDisclaimer": []
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "statsItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "87e0cc15-077e-4a2c-afa2-3e4520de86e0",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "additionalText": "",
+                  "attribute": "Power",
+                  "unit": "hp",
+                  "value": "408",
+                  "fieldKey": "horsepower",
+                  "popUpDisclaimer": []
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "statsItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f46c0bc8-0cf2-46bd-9bf8-7d7a6fb57e1d",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "additionalText": "",
+                  "attribute": "Fast charge 10-80%",
+                  "unit": "min",
+                  "value": "27",
+                  "fieldKey": "batteryChargingDurationDc150kw",
+                  "popUpDisclaimer": []
+                },
+                "slots": null
+              }
+            ],
+            "statsImage": {
+              "title": null,
+              "description": null,
+              "file": {
+                "mediaType": null,
+                "url": null,
+                "name": null,
+                "description": null,
+                "details": {
+                  "size": 0,
+                  "image": {
+                    "alt": null,
+                    "width": 0,
+                    "height": 0
+                  }
+                }
+              }
+            },
+            "videoMp4": null, 
+            "title": "A pure heart in a daring body. ",
+            "testDriveBtnHref": "#",
+            "testDriveBtnTarget": "",
+            "testDriveBtnLabel": "Book a test drive"
+          }
+        }
+      ],
+      "interiorHeroSlot": [
+        {
+          "renderingParams": {
+            "topInnerSpacing": "",
+            "topOuterSpacing": "",
+            "background": "",
+            "bottomOuterSpacing": "12",
+            "bottomInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "interiorHero",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{B53B3E14-D822-49F9-A495-8BCB3652C5C8}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "videoSquareMp4": null,
+            "panoramicImage": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-interiorhero-full-360.jpg?h=4000&iar=0&w=8000",
+                "name": "c40-bev-interiorhero-full-360",
+                "description": "",
+                "details": {
+                  "size": 2039887,
+                  "image": {
+                    "alt": "Cabin interior of Volvo C40 Recharge pure electric.",
+                    "width": 8000,
+                    "height": 4000
+                  }
+                }
+              }
+            },
+            "imageUltrawide": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-interiorhero-21x9.jpg?h=1096&iar=0&w=2560",
+                "name": "c40-bev-interiorhero-21x9",
+                "description": "",
+                "details": {
+                  "size": 1240077,
+                  "image": {
+                    "alt": "Cabin interior of Volvo C40 Recharge pure electric.",
+                    "width": 2560,
+                    "height": 1096
+                  }
+                }
+              }
+            },
+            "videoUltrawideWebm": null,
+            "videoUltrawideMp4": null,
+            "videoSquareWebm": null,
+            "subTitle": "Contemporary design and a leather free interior set the tone inside the C40 Recharge. ",
+            "title": "Express yourself.",
+            "link": {
+              "uri": "/master/cars/c40-electric/interior-design",
+              "text": "Explore interior",
+              "accessibilityLabel": null,
+              "target": ""
+            },
+            "imageSquare": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-interiorhero-1x1.jpg?h=1080&iar=0&w=1080",
+                "name": "c40-bev-interiorhero-1x1",
+                "description": "",
+                "details": {
+                  "size": 548836,
+                  "image": {
+                    "alt": "Cabin interior of Volvo C40 Recharge pure electric.",
+                    "width": 1080,
+                    "height": 1080
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "featureGridSlot": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "topInnerSpacing": "",
+            "bottomInnerSpacing": "",
+            "background": "",
+            "bottomOuterSpacing": "12"
+          },
+          "contentType": {
+            "id": "featureGrid",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{4E0E8CD9-EBB3-4E0A-B1AF-18A209B7E87E}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "subText": "Immerse yourself in smart features and enabling tech. ",
+            "iconGridItems": [
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "7c4cf078-6e7f-4ca0-990e-ea5d682ad4de",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "device-40",
+                  "title": "Google built-in"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "87edb864-ed46-4fe9-8140-f61bcc3d776f",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "leaf-40",
+                  "title": "Air purifier"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "578c3f02-ee2e-4693-bfa9-eae5f27db624",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "speaker-40",
+                  "title": "Harman Kardon Premium Sound"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "e28082f5-5854-4d43-a7a1-106518450026",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "360camera-40",
+                  "title": "360° camera"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "25ca31df-759f-4d53-8cf7-be1e0d0da266",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "car-cta-40",
+                  "title": "Cross traffic alert"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "featureGridItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "6e08364f-3239-423d-8279-689714de7fc8",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "icon": "remote-40",
+                  "title": "Volvo Cars app"
+                },
+                "slots": null
+              }
+            ],
+            "heading": "More of what you want.",
+            "disclaimer": "",
+            "link": {
+              "uri": "/master/cars/c40-electric/features",
+              "text": "Explore features",
+              "accessibilityLabel": null,
+              "target": ""
+            }
+          }
+        }
+      ],
+      "pdpsFeaturesListSlot": [],
+      "specsHighlightsSlot": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "background": "",
+            "bottomInnerSpacing": "",
+            "bottomOuterSpacing": "12",
+            "topInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "specsHighlights",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{6E72C050-F2D6-42CB-9830-38EE5B3A0496}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "showFrunkInstead": "",
+            "groundClearanceLabel": "",
+            "seatsValue": "5",
+            "lengthLabel": "Lenght",
+            "accelerationLabel": "",
+            "overrideEnergyOrFuelConsumptionLabel": "Electric energy consumption",
+            "overrideEnergyOrFuelConsumptionValue": "17.6 kWh/100km",
+            "overrideWidthValue": "",
+            "unit": "mm",
+            "disclaimer": "The figures are preliminary and derived from estimates and calculations performed by Volvo Cars for C40 Recharge twin and these outcomes are not guaranteed. The real-life energy consumption achieved under real conditions varies depending on driving behaviour and other external factors. Vehicle certification pending.  Open full Specifications to review other powertrain options.",
+            "video": null,
+            "frunkLabel": "",
+            "title": "Full specifications and model details",
+            "overrideCargoCapacity": "",
+            "subtitleForMobile": "",
+            "image": {
+              "title": "",
+              "description": "",
+              "file": {
+                "mediaType": "image/jpeg",
+                "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-specshighlight-4x3.jpg?h=1440&iar=0&w=1920",
+                "name": "c40-bev-specshighlight-4x3",
+                "description": "",
+                "details": {
+                  "size": 1138915,
+                  "image": {
+                    "alt": "A white Volvo C40 Recharge seen from directly above with interior visible.",
+                    "width": 1920,
+                    "height": 1440
+                  }
+                }
+              }
+            },
+            "headroomFrontRearLabel": "Head room front / rear",
+            "engineID": "",
+            "overrideHeadroomFrontRearValue": "",
+            "widthLabel": "Width",
+            "link": {
+              "uri": "/master/cars/c40-electric/specification/",
+              "text": "Open full specifications",
+              "accessibilityLabel": null,
+              "target": ""
+            },
+            "engineName": "",
+            "overrideLengthValue": "",
+            "frunkValue": "",
+            "seatsLabel": "Seats",
+            "groundClearanceValue": "",
+            "overrideTowingOrAccelerationValue": "1800 kg",
+            "overrideHeightValue": "",
+            "heightLabel": "Height",
+            "overrideTowingOrAccelerationLabel": "Maximum towing capacity"
+          }
+        }
+      ],
+      "exteriorColorSelector": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "onlineSalesEnabled": "",
+            "trim": "",
+            "bottomInnerSpacing": "",
+            "background": "",
+            "topInnerSpacing": "",
+            "bottomOuterSpacing": "12"
+          },
+          "contentType": {
+            "id": "exteriorColorSelector",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{F7DDCAB2-B361-483A-8970-FB39DA7AD9FD}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "heading": "",
+            "loadingAriaText": "Loading",
+            "availableInNumberColorsTitle": "Available in {number} colours",
+            "disclaimer": "",
+            "cta": {
+              "uri": "https://www.volvocars.com/intl/build/c40-electric",
+              "text": "Design yours",
+              "accessibilityLabel": null,
+              "target": ""
+            }
+          }
+        }
+      ],
+      "variantComparisonCardsSlot": [
+        {
+          "renderingParams": {
+            "bottomOuterSpacing": "12",
+            "background": "",
+            "topOuterSpacing": "",
+            "topInnerSpacing": "",
+            "bottomInnerSpacing": "",
+            "hidePrices": false,
+            "showOnlyMsrpPrice": false
+          },
+          "contentType": {
+            "id": "variantComparisonCards",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{2ED688AE-FB96-4D4D-9035-A1B749DD2DFC}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "highlightsTitle": "Highlights",
+            "levelOverlayTitle": "",
+            "checkBoxLabel": "Show differences only",
+            "exploreByCategoryTitle": "Explore by category",
+            "compareTitle": "Compare C40",
+            "allCategoriesText": "All",
+            "title": "Equipment levels",
+            "andMoreLabel": "",
+            "showOnlyUpgradesLabel": "Show upgrades only",
+            "compareCtaAriaLabel": "Compare the variants",
+            "cardCtaText": "View all features",
+            "allFeaturesTitle": "All features",
+            "compareCtaText": "Compare levels",
+            "configureLink": {
+              "uri": "/master/build/c40-electric",
+              "text": "Design yours",
+              "accessibilityLabel": null,
+              "target": ""
+            },
+            "description": "At Volvo, we don’t believe one size fits all. That’s why we created our distinct equipment levels designed to reflect you and how you use your car.",
+            "chooseLabel": "Choose two to compare",
+            "popUpDisclaimer": []
+          }
+        }
+      ],
+      "pdpsEditorialOfferDetailsSlot": [],
+      "pdpsOfferComparisonSlot": [
+        {
+          "renderingParams": {
+            "background": "",
+            "topOuterSpacing": "",
+            "bottomInnerSpacing": "",
+            "bottomOuterSpacing": "12",
+            "topInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "pdpsOfferComparison",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{F8E867A9-7BC3-46FE-B3EC-EFF42CF70B68}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "overlayTitle": "Overlay Title",
+            "viewDetails": "View details",
+            "offerOverlayTitle": "Offer Overlay Title",
+            "cta": {
+              "uri": "https://",
+              "text": "CTA descrip",
+              "accessibilityLabel": null,
+              "target": ""
+            },
+            "disclaimer": "Disclaimer text.",
+            "title": "Lorem ipsum"
+          }
+        }
+      ],
+      "offersWithTabsSlot": [],
+      "pdpsFeaturesOverviewSlot": [],
+      "iconCalloutsSlot": [],
+      "pdpsZappyRideSlot": [],
+      "iconCalloutsWithTabsSlot": [
+        {
+          "renderingParams": {
+            "background": "",
+            "topOuterSpacing": "",
+            "bottomInnerSpacing": "",
+            "bottomOuterSpacing": "12",
+            "topInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "iconCalloutsWithTabs",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{2A5D2EB9-CEBB-4772-91D5-B70D9F7B661A}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "tabs": [
+              {
+                "contentType": {
+                  "id": "iconCalloutsTabType",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "fc05613b-6f4a-4330-a3d4-491cfaca7d0b",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "overlaySecondaryTitle": "",
+                  "overlayDisclaimer": "",
+                  "overlaySecondaryTitleText": "",
+                  "cta2Label": "",
+                  "iconTexts": [
+                    {
+                      "contentType": {
+                        "id": "iconText",
+                        "type": "ContentType"
+                      },
+                      "sys": {
+                        "referenceType": null,
+                        "locale": null,
+                        "id": "0131d564-3e70-49c9-b891-d5f85af7ffeb",
+                        "type": "Entry",
+                        "createdAt": "0001-01-01T00:00:00",
+                        "updatedAt": "0001-01-01T00:00:00"
+                      },
+                      "name": null,
+                      "fields": {
+                        "iconColor": "",
+                        "title": "Service on us",
+                        "cta": null,
+                        "unit": "",
+                        "text": "We cover maintenance service and wear and tear items to help keep your car running at its best.*",
+                        "header": "",
+                        "icon": "service",
+                        "ctaTrackLabel": ""
+                      },
+                      "slots": null
+                    },
+                    {
+                      "contentType": {
+                        "id": "iconText",
+                        "type": "ContentType"
+                      },
+                      "sys": {
+                        "referenceType": null,
+                        "locale": null,
+                        "id": "18347a51-c9e8-4a3a-a56c-f3031772bd9c",
+                        "type": "Entry",
+                        "createdAt": "0001-01-01T00:00:00",
+                        "updatedAt": "0001-01-01T00:00:00"
+                      },
+                      "name": null,
+                      "fields": {
+                        "iconColor": "",
+                        "title": "Insurance coverage",
+                        "cta": null,
+                        "unit": "",
+                        "text": "Your new Volvo comes with an insurance package that includes what you need, so you can start your journey with peace of mind.**",
+                        "header": "",
+                        "icon": "insurance",
+                        "ctaTrackLabel": ""
+                      },
+                      "slots": null
+                    },
+                    {
+                      "contentType": {
+                        "id": "iconText",
+                        "type": "ContentType"
+                      },
+                      "sys": {
+                        "referenceType": null,
+                        "locale": null,
+                        "id": "bd12ebeb-bf02-4a27-b766-7412977ca3b1",
+                        "type": "Entry",
+                        "createdAt": "0001-01-01T00:00:00",
+                        "updatedAt": "0001-01-01T00:00:00"
+                      },
+                      "name": null,
+                      "fields": {
+                        "iconColor": "",
+                        "title": "Extended warranty",
+                        "cta": null,
+                        "unit": "",
+                        "text": "Drive with confidence knowing that your Volvo is covered by an extended warranty.",
+                        "header": "",
+                        "icon": "warranty",
+                        "ctaTrackLabel": ""
+                      },
+                      "slots": null
+                    },
+                    {
+                      "contentType": {
+                        "id": "iconText",
+                        "type": "ContentType"
+                      },
+                      "sys": {
+                        "referenceType": null,
+                        "locale": null,
+                        "id": "272d5009-7be4-4a35-b323-e835a19cafac",
+                        "type": "Entry",
+                        "createdAt": "0001-01-01T00:00:00",
+                        "updatedAt": "0001-01-01T00:00:00"
+                      },
+                      "name": null,
+                      "fields": {
+                        "iconColor": "",
+                        "title": "Roadside assistance",
+                        "cta": null,
+                        "unit": "",
+                        "text": "Get 24/7 emergency roadside assistance in the event of a breakdown or accident to help keep you and your family safe on the road. ",
+                        "header": "",
+                        "icon": "road",
+                        "ctaTrackLabel": ""
+                      },
+                      "slots": null
+                    }
+                  ],
+                  "cta": {
+                    "uri": "http://#",
+                    "text": "Start your order",
+                    "accessibilityLabel": null,
+                    "target": ""
+                  },
+                  "overlayItems": [],
+                  "overlayTitle": "",
+                  "title": ""
+                },
+                "slots": null
+              }
+            ],
+            "disclaimer": "* Service is subject to terms and conditions - wear and tear items are limited and exclusions apply - for more information ask your Volvo retailer. \r\n\r\n** Please read [add insurance company website reference or similar] for more information. If you wish to opt-out you shall inform your retailer prior to signing the contract",
+            "text": "Explore the Care offer that come with the C40 Recharge.",
+            "title": "Discover the benefits."
+          }
+        }
+      ],
+      "electrificationSlot": [
+        {
+          "renderingParams": {
+            "background": "",
+            "bottomInnerSpacing": "",
+            "topInnerSpacing": "",
+            "bottomOuterSpacing": "12",
+            "topOuterSpacing": ""
+          },
+          "contentType": {
+            "id": "electrification",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{7AFD4A6A-4358-431D-9BA7-D68037145C3E}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "itemSlot3": {
+              "contentType": {
+                "id": "electrificationItem",
+                "type": "ContentType"
+              },
+              "sys": {
+                "referenceType": null,
+                "locale": null,
+                "id": "dc0eacfe-68e8-4414-a895-617380d3ce4c",
+                "type": "Entry",
+                "createdAt": "0001-01-01T00:00:00",
+                "updatedAt": "0001-01-01T00:00:00"
+              },
+              "name": null,
+              "fields": {
+                "itemIcon": "Pure Electric",
+                "text": " Interested to learn more about fully electric cars and our offer?",
+                "title": "Electric cars",
+                "link": {
+                  "uri": "/master/v/cars/model-year-22/electric-cars",
+                  "text": "Explore electric cars",
+                  "accessibilityLabel": null,
+                  "target": ""
+                }
+              },
+              "slots": null
+            },
+            "itemSlot2": {
+              "contentType": {
+                "id": "electrificationItem",
+                "type": "ContentType"
+              },
+              "sys": {
+                "referenceType": null,
+                "locale": null,
+                "id": "eaf0cef2-1cd9-47c7-a537-dddbc4059972",
+                "type": "Entry",
+                "createdAt": "0001-01-01T00:00:00",
+                "updatedAt": "0001-01-01T00:00:00"
+              },
+              "name": null,
+              "fields": {
+                "itemIcon": "Charging",
+                "text": "How often do I need to charge a pure electric car and how long does it take?",
+                "title": "Charging your Volvo",
+                "link": {
+                  "uri": "/master/v/cars/recharge/charging-your-volvo",
+                  "text": "Learn about charging",
+                  "accessibilityLabel": null,
+                  "target": ""
+                }
+              },
+              "slots": null
+            },
+            "itemSlot1": {
+              "contentType": {
+                "id": "electrificationItem",
+                "type": "ContentType"
+              },
+              "sys": {
+                "referenceType": null,
+                "locale": null,
+                "id": "4eed78cf-4f88-4900-bd60-7311b3da8d47",
+                "type": "Entry",
+                "createdAt": "0001-01-01T00:00:00",
+                "updatedAt": "0001-01-01T00:00:00"
+              },
+              "name": null,
+              "fields": {
+                "itemIcon": "Savings",
+                "text": "How much could you save by purchasing and owning a pure electric car?",
+                "title": "Savings and financial benefits",
+                "link": {
+                  "uri": "/master/v/cars/electric-car/cost-benefits/",
+                  "text": "Estimate savings",
+                  "accessibilityLabel": null,
+                  "target": ""
+                }
+              },
+              "slots": null
+            },
+            "description": "Discover the benefits of driving a Volvo Recharge car and learn more about electric mobility.",
+            "heading": "A fully-electric life"
+          }
+        }
+      ],
+      "promotionsTextImageSlot": [
+        {
+          "renderingParams": {
+            "background": "",
+            "bottomOuterSpacing": "4",
+            "multilineTextVariant": "",
+            "topOuterSpacing": "",
+            "bottomInnerSpacing": "",
+            "alignImage": "",
+            "topInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "promotionsTextImage",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{1BB41883-60C9-4FEB-ABA6-46C6CC46753C}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "disclaimer": "",
+            "title": "Discover more",
+            "cards": [
+              {
+                "contentType": {
+                  "id": "promotionCard",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "61c713fd-6809-4970-8933-9fbf7b9f82bd",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "text": "",
+                  "cta": null,
+                  "imageMobile": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/img/dummy-images/4_3_dummy.jpg?h=2000&iar=0&w=2667",
+                      "name": "4_3_dummy",
+                      "description": "",
+                      "details": {
+                        "size": 154695,
+                        "image": {
+                          "alt": "",
+                          "width": 2667,
+                          "height": 2000
+                        }
+                      }
+                    }
+                  },
+                  "imageDesktop": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/img/dummy-images/21_9_dummy.jpg?h=2194&iar=0&w=5120",
+                      "name": "21_9_dummy",
+                      "description": "",
+                      "details": {
+                        "size": 318637,
+                        "image": {
+                          "alt": "",
+                          "width": 5120,
+                          "height": 2194
+                        }
+                      }
+                    }
+                  },
+                  "title": "Some title",
+                  "multilineText": "Multiplex multitext"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "promotionCard",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "bfff4f14-0be6-4801-958b-6c247f4ec960",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "text": "",
+                  "cta": null,
+                  "imageMobile": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/img/dummy-images/4_3_dummy.jpg?h=2000&iar=0&w=2667",
+                      "name": "4_3_dummy",
+                      "description": "",
+                      "details": {
+                        "size": 154695,
+                        "image": {
+                          "alt": "",
+                          "width": 2667,
+                          "height": 2000
+                        }
+                      }
+                    }
+                  },
+                  "imageDesktop": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/img/dummy-images/21_9_dummy.jpg?h=2194&iar=0&w=5120",
+                      "name": "21_9_dummy",
+                      "description": "",
+                      "details": {
+                        "size": 318637,
+                        "image": {
+                          "alt": "",
+                          "width": 5120,
+                          "height": 2194
+                        }
+                      }
+                    }
+                  },
+                  "title": "Some title",
+                  "multilineText": "Multiplex multitext"
+                },
+                "slots": null
+              }
+            ]
+          }
+        }
+      ],
+      "imageWithTextAndMarketingLinksSlot": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "background": "",
+            "topInnerSpacing": "",
+            "showLinksUnderneathOnMedium": true,
+            "bottomOuterSpacing": "4",
+            "bottomInnerSpacing": ""
+          },
+          "contentType": {
+            "id": "imageWithTextAndMarketingLinks",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{E04F0441-FDDD-44AD-993D-F1A6B9866155}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "categories": [
+              {
+                "contentType": {
+                  "id": "imageWithTextAndMarketingLinksItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "07ffcf2f-c8d3-40c2-bd5f-7d4ce93e1f09",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "disclaimer": "",
+                  "text": "Smart. Versatile. Expressive. Meet our pure electric compact SUV – for every version of you.",
+                  "subTitle": "pure electric",
+                  "title": "XC40 Recharge",
+                  "image": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/xc40-electric/pdp/xc40-bev-hero-4x3.jpg?h=1080&iar=0&w=1440",
+                      "name": "xc40-bev-hero-4x3",
+                      "description": "",
+                      "details": {
+                        "size": 651986,
+                        "image": {
+                          "alt": "The side profile of a green Volvo XC40 Recharge pure electric SUV.",
+                          "width": 1440,
+                          "height": 1080
+                        }
+                      }
+                    }
+                  },
+                  "cta": {
+                    "uri": "/master/cars/xc40-electric",
+                    "text": "Learn",
+                    "accessibilityLabel": null,
+                    "target": ""
+                  },
+                  "cta2": {
+                    "uri": "http://#",
+                    "text": "Shop",
+                    "accessibilityLabel": null,
+                    "target": ""
+                  }
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "imageWithTextAndMarketingLinksItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "e5baed4e-277a-4ef8-a9fb-ea41338e215b",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "disclaimer": "",
+                  "text": "Intelligent design at every turn. Meet our smart plug-in hybrid midsize SUV with Google built-in. ",
+                  "subTitle": "plug-in hybrid",
+                  "title": "XC60 Recharge",
+                  "image": {
+                    "title": "",
+                    "description": "",
+                    "file": {
+                      "mediaType": "image/jpeg",
+                      "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/xc60-hybrid/pdp/xc60-hybrid-hero-4x3.jpg?h=1440&iar=0&w=1920",
+                      "name": "xc60-hybrid-hero-4x3",
+                      "description": "",
+                      "details": {
+                        "size": 164863,
+                        "image": {
+                          "alt": "A silver Volvo XC60 Recharge, charging in a white surrounding. ",
+                          "width": 1920,
+                          "height": 1440
+                        }
+                      }
+                    }
+                  },
+                  "cta": {
+                    "uri": "/master/cars/xc60-hybrid",
+                    "text": "Learn",
+                    "accessibilityLabel": null,
+                    "target": ""
+                  },
+                  "cta2": {
+                    "uri": "http://#",
+                    "text": "Shop",
+                    "accessibilityLabel": null,
+                    "target": ""
+                  }
+                },
+                "slots": null
+              }
+            ],
+            "title": "Explore other models",
+            "linksListTitle": "More information on C40 Recharge",
+            "links": [
+              {
+                "contentType": {
+                  "id": "LinkItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "c877993a-5dd8-45a3-8c5d-cf0f1d3c9e27",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "link": {
+                    "uri": "#www.volvocars.com",
+                    "text": "Some link",
+                    "accessibilityLabel": "",
+                    "target": null
+                  }
+                },
+                "slots": null
+              }
+            ]
+          }
+        }
+      ],
+      "faqsSlot": [
+        {
+          "renderingParams": {
+            "variant": "regularFAQ",
+            "topInnerSpacing": "8",
+            "bottomInnerSpacing": "8",
+            "bottomOuterSpacing": "4",
+            "background": "light",
+            "topOuterSpacing": ""
+          },
+          "contentType": {
+            "id": "faqs",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{086CCE5F-4715-4C75-AD7E-3F9406AB33A8}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "showMoreText": "Show more",
+            "faqList": [
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f355101a-784a-483e-8ce8-d4dd51a8ae10",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "How to begin ordering a C40 Recharge online"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "52f5d4ca-f6d3-4661-b875-f4908bb9c7ba",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What does it mean that I can start the order of the pure electric C40 Recharge online?",
+                  "answer": "You will be able to configure your car according to your preferences, review the different financing options for acquiring the car and then review the full order summary. If you are happy with the order overview, you can fill in your personal details, choose a retailer of your preference and submit the order request. You will receive a confirmation e-mail with all the details and the retailer/welcome centre will contact you within one working day to proceed with the final step for ordering your new car. ",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "c926390f-f354-4cf8-8c82-489add801c95",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is it possible to add additional packages, options or accessories after submitting the online order request?",
+                  "answer": "Yes. After submitting the request form, the retailer/welcome centre you selected will contact you. Before finalising the order, you are welcome to add available packages, options and other accessories. Please note that this can increase the price. ",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "b2d13c57-19b4-4a5c-a5bb-8db7bbb5449e",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Which financing options are available? ",
+                  "answer": "There is an outright purchase option and a lease option. The prices shown on our website are recommended prices and the final price will be finalised together with your local retailer. No deposit or payment is paid online. After choosing your preferred financing option, payment terms will be detailed by your retailer",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "4c16088d-5971-45d1-b4b0-3d3a5d233f26",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Do I physically have to visit the retailer to finalise the order and sign the contract?",
+                  "answer": "Yes. We are working on a solution for paying online but for now, the order needs to be finalised and signed physically by you and the retailer in question.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "3c8eb861-6322-4e49-af3d-6f6409a9c228",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Am I in a binding agreement after submitting the form?",
+                  "answer": "No. Your data is only used to process your order request.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "08d98d21-ef67-4bab-a4bd-9a459766d462",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Can I trade in my current car?",
+                  "answer": "This can be discussed together with your local retailer.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "52a39358-4b5d-4d8b-9313-6ad0f07957f6",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Can I place an online order request for other models and powertrains?",
+                  "answer": "Yes, you can start your order online for the pure electric XC40 Recharge and the C40 Recharge. If you are interested in a different model or a different powertrain, your local retailer will of course be happy to help make an attractive offer for this.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "d42a397a-fd69-459a-b16c-86f40a996816",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Can I book a test drive of the car? ",
+                  "answer": "Yes, please contact your local retailer and they will be happy to arrange a test drive. ",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "6abd2199-5408-4b4d-a07e-46c1b42b7042",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What are the different ownership options available?",
+                  "answer": "We’ve made owning a full electric C40 Recharge easy through flexible purchase and leasing options. You can pay for the car in full at delivery or take advantage of our financing offers.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "949613da-a2c6-47a0-9320-c3736ea948b8",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is the pure electric C40 Recharge also offered for fleet sales?",
+                  "answer": "Please contact our fleet team at [insert local contact details]. We'll be happy to answer any questions and discuss options with you.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "ffe2c1bd-fb7d-431e-a7ba-84cc3a5f74ba",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Care by Volvo subscription"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "a977ad04-5d57-4fd1-a02d-6b4a62d0eaa2",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What are the different ownership options available? ",
+                  "answer": "We’ve made owning a full electric C40 Recharge easy through flexible purchase and leasing options. You can pay for the car in full at delivery, take advantage of our financing offers or enjoy the freedom and versatility of the Care by Volvo car subscription option. The choice is yours.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "cfeca409-1c93-4bd5-89cf-b4dc5cfcaf54",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Why should I subscribe to the C40 Recharge?",
+                  "answer": "If you’re looking for a flexible, hassle-free alternative to leasing or buying a brand-new electric car, subscribing to the C40 Recharge is the perfect choice. This way you get to decide if an electric car is the best option for you. If you’re ready to embrace an all-electric drive for longer, you can commit to your C40 Recharge for a fixed 36-month period or alternatively choose a flexible contract with just 3 months’ notice.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "88f2a194-e281-4368-b8f8-df70ce9ac2f2",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What’s the contract length for an C40 Recharge subscription?",
+                  "answer": "You can subscribe for a fixed 36-month period or choose a flexible contract with just 3 months’ notice, whichever suits your situation. ",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "c9b73f98-1321-4c5e-966c-52be764ffa94",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Where can I learn more about the C40 Recharge pure electric purchase offer? ",
+                  "answer": "See what's included and find out how to purchase and finance your car here.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "bd895d8d-bb4c-48f5-8b2d-1e3d89fa6cb9",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What are the benefits of subscribing to an electric car vs leasing or buying?",
+                  "answer": "Now that you can subscribe to the C40 Recharge, it's never been simpler to go green and try a fully electric car. You can subscribe for a fixed 36-month period or choose a flexible contract with just 3 months’ notice, whichever suits your situation. And with a subscription, it’s easier to stay in control of your finances. There’s no bank loan, no deposit, no hidden costs. Just a clear monthly fee that covers most practicalities.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "fcdf564a-6ce7-425f-8d82-b7fc7397c975",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Battery charging and driving range"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "6ff718b6-dbf8-4026-8739-d4eadba9ca7f",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How long can I drive before I need to recharge the battery on the full electric C40 Recharge?",
+                  "answer": "Volvo Cars estimates that a fully charged battery could deliver a projected range of up to 507km (twin motor) or 476-533km (single motor) in mixed driving.* These preliminary figures are still undergoing certification and will be updated when certified range data are available.\r\n\r\nReal-world range is affected by your driving style and external factors like the outdoor temperature, weather, wind, topography and roads. Range is also affected by how much electricity you use for car functions like heating and cooling. One way to improve range is to pre-condition your car during charging, so the cabin has a comfortable temperature when you go.\r\n\r\n* The figures are preliminary and derived from estimates and calculations performed by Volvo Cars and these outcomes are not guaranteed. The real-life driving range and energy consumption achieved under real conditions varies depending on driving behaviour and other external factors. Vehicle certification pending.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "1ef5a863-911e-4308-b38b-6d8da956bf16",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What charging times can I expect when recharging at home?",
+                  "answer": "The charging time depends on the charging equipment you use and the electric installation at your home. The standard home charging cable with a household connector is primarily an auxiliary cable. Charging an empty battery to 100 per cent with this cable takes approximately 8-76 hours depending on market. \r\n\r\nFor regular and considerably shorter charging times at home, we recommend a 3-phase 11 kW wallbox. This installation can give you approximately 7-8 hours charging time (from empty to 100 per cent), or around 50–60 km range per hour.\r\n\r\nPlease note: Charging times can vary and are dependent on factors such as outdoor temperature, current battery temperature, charging equipment, battery condition and car condition.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "9712926b-1bd4-44a7-9845-dd280c3dece1",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What equipment do I need to charge my pure electric C40 Recharge easily and safely at home?",
+                  "answer": "The standard-fitted home charging cable is primarily designed as an auxiliary cable for household applications. For considerably faster and more convenient charging at home, we recommend installing a 3-phase 11 kW wallbox.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "381445ba-e012-4135-8a0b-130f47bb0b6c",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How much does it cost to charge the battery of the pure electric C40 Recharge?",
+                  "answer": "The cost for electricity varies depending on local conditions, but the cost can be lower compared to petrol or diesel. The lowered fuel cost is also one of several reasons to switch to an electric car. And for even lower costs, you can pre-set your pure electric C40 Recharge to charge at the times when the tariffs are the lowest, often at night.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "84c5fd2b-c97c-4627-8bb2-c1891f2e7f44",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Can I use the pure electric C40 Recharge for long-distance driving?",
+                  "answer": "This pure electric crossover is perfectly suited for comfortable long-distance driving. And the battery’s high capacity helps you to do so without worrying about range. If you need to charge during the journey, you can do so at an AC charging station or DC fast-charging station. At a 200kW DC fast charging station, it’s possible to charge the battery from 10 to 80 per cent in approximately 27 minutes (or around 80-100km range in 10 minutes) – just enough time to rest or have a meal during the trip.*\r\n\r\n* The charging time is preliminary and derived from estimates and calculations performed by Volvo Cars and these outcomes are not guaranteed. Please also note that charging times can vary and are dependent on factors such as outdoor temperature, current battery temperature, charging equipment, battery condition and car condition. Vehicle certification pending.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f72028ab-ee35-44a9-a50a-c19567ba979d",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Which is the fastest way to charge my pure electric C40 Recharge on long journeys?",
+                  "answer": "You will find the fastest charging at a DC fast-charging station along the route. To charge as fast as possible, we recommend you to limit the car's charging level to 80 per cent. This helps keep your charging times short because the last 20 per cent of charging takes the longest time. So charging the battery from 10 to 80 per cent at a 200kW DC fast-charger takes only around 27 minutes.* But if needed to reach your destination or the next charging station, you can choose to charge the battery up to 100 per cent using the settings in the car’s centre display.\r\n\r\n* The charging time is preliminary and derived from estimates and calculations performed by Volvo Cars and these outcomes are not guaranteed. Please also note that charging times can vary and are dependent on factors such as outdoor temperature, current battery temperature, charging equipment, battery condition and car condition. Vehicle certification pending.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "e74c62db-4d7c-4e87-955d-c02046208916",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How does the car help me to find the nearest charging station?",
+                  "answer": "In countries where Google Maps includes charging stations, you can find public charging stations direct from the map in the car’s centre display or via a smartphone app. From here you can also select preferred charging stations and get guidance.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "281e7302-308f-439d-a9fb-0548effc01cb",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Can the battery be replaced?",
+                  "answer": "If the battery or a battery module needs to be replaced, this can be done just like any other technical part of the car.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "aa4fd46f-7175-4e68-9288-45ff0c8fe879",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How does the battery impact safety in a collision?",
+                  "answer": "The battery means there is 500 kg of extra weight that needs to be addressed in an impact – for the car’s occupants as well as for other vehicles. The battery also needs separate protection to avoid harmful leakage after a collision. By utilising a range of innovative safety solutions, Volvo Cars’ safety engineers have designed the C40 Recharge to meet all these challenges.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "2f0c12c6-27b1-4ba6-8b6b-084329d3fbf2",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Connectivity and infotainment"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "60e6acfd-3433-4e0a-9ed3-6ae1a6ab57a8",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What Google apps and services are built into the C40 Recharge?",
+                  "answer": "The full electric C40 Recharge has Google Maps, Google Assistant and Google Play built-in.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "21020c43-3487-45c5-95a0-32c0632a6693",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Does the Volvo C40 Recharge have Apple CarPlay?",
+                  "answer": "Yes, Apple CarPlay is standard on the pure electric C40 Recharge.* \r\n\r\n* Apple CarPlay can only be used in combination with iPhone model 5 or later. Apple CarPlay and iPhone are trademarks of Apple Inc.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "afbf7770-0abc-4bd2-a9ca-d0e1ca958338",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is Digital services a subscription?",
+                  "answer": "Yes, up to four years of access to the services are included. After that you can buy a continuation of the subscription if you wish to continue using all the services included. ",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "899c5c71-6d19-420f-82ec-8c6e55974b03",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "When does the Digital services subscription start and how long does it last?",
+                  "answer": "A subscription lasts up to four years. If the car is new, this period starts on the retail delivery date. The subscription is linked to the car, so in the event of the car being sold, any remaining subscription time is passed on to the next owner/user.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "1e952704-47f6-4660-9db6-0eae34f7c576",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is all data required to run the Digital services package included?",
+                  "answer": "No. You will need to connect with your own device through Bluetooth tethering and use your personal data plan to access these services.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "54506f16-70af-47bb-a098-9fdf5f4519ce",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is all data required to run the Digital services package included?",
+                  "answer": "Yes. All data is included for up to four years. This includes both for navigation and voice assistant, as well as downloading and running any type of apps (e.g. music streaming). After this period, the service can be extended as a subscription.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "e663b723-1886-48cb-b9ee-829d32a76e30",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Cargo and towing capacity"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "7faf3129-d614-4c34-b89e-e455827eff18",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What is the load capacity of the pure electric C40 Recharge?",
+                  "answer": "Smart battery design means all occupants have as much space as in an ordinary car. This also gives uncompromised versatility and smart storage solutions. The rear load compartment capacity is 413 litres including the compartment under the load floor. The battery encroaches on the space below the load floor, but this is to a large extent compensated by the front load compartment under the hood, which offers space for charging cables and other items you don't need so often but still want to have easily accessible if the load compartment is full.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "02039866-e28d-4ad3-8d84-ce2c6ba127ff",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How much can I tow with the pure electric C40 Recharge?",
+                  "answer": "We believe you should be able to drive pure electric without compromising on everyday versatility. That’s why the pure electric C40 Recharge twin can tow up to 1,800kg.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "b0a0f390-6e5c-4a3a-bf70-3c0162d121c5",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Maintenance, warranty and service"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "f7a0dea2-f0a3-4ee8-9ba4-933577bdbb85",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "What warranty does Volvo Cars have on the battery?",
+                  "answer": "The Volvo Cars Warranty for the battery is eight years or 160,000km, whichever occurs first, provided that the car and battery are maintained and used in accordance with Volvo Cars’ recommendations.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "057a3e81-446d-49b5-9ecf-b90f018175c5",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How much maintenance and service is needed for the pure electric C40 Recharge?",
+                  "answer": "The electric motors are sealed for life and maintenance-free. So compared to a combustion engine-propelled car, the pure electric C40 Recharge needs much less maintenance which may result in lower running costs.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "0b68b7f7-bbb0-43ee-aac2-3c3cff7b5fc8",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "",
+                  "answer": "",
+                  "cta": null,
+                  "subHeading": "Sustainability of the C40 Recharge"
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "1049c4fd-01c8-4085-a30a-21ae1f042d9a",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "Is the lifecycle carbon footprint of the full electric C40 Recharge less than an equivalent internal combustion engine vehicle?",
+                  "answer": "Over the lifetime of a vehicle, the carbon footprint of a fully electric vehicle (BEV) is less than a traditional internal combustion engine vehicle (ICE). However, the distance needed to be driven for a BEV to become less carbon intensive than an ICE vehicle is largely dependent on how the electricity that power the vehicle is generated. If you charge your BEV with renewable electricity, you will need to drive only 49,000km for that point to be reached, compared with 110,000km if you use electricity generated from the global average electricity mix. Where possible, we encourage you to power your electric vehicle with electricity from renewable sources.\r\n\r\nWe are committed to full transparency when it comes to the carbon impact of our electric vehicles and a lifecycle assessment (LCA) of the C40 Recharge can be found [here](https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/volvo-cars-LCA-report-c40.pdf).",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              },
+              {
+                "contentType": {
+                  "id": "faqItem",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "0c3df772-b49c-48c3-ba3f-318a8c282de6",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "trackEventLabel": "",
+                  "excludeFromStructuredData": false,
+                  "question": "How can I know that the car’s battery has been produced in an environmentally and socially responsible way?",
+                  "answer": "How can I know that the car’s battery has been produced in an environmentally and socially responsible way?\r\nAnswer: Volvo Cars is committed to full traceability, helping to ensure that our customers can drive electrified Volvos knowing the raw material for the batteries has been sourced responsibly. The introduction of blockchain technology significantly boosts traceability within our cobalt supply chain. Blockchain, in conjunction with inspection on mine sites, GPS tracking, entry and exit scanning, verified logistics providers, facial recognition, ID checks, and time tracking, all contribute to a material’s traceability from a mine to the car factory.\r\n\r\nVolvo Cars works closely with our suppliers to increase the sustainability of our products and services, including through securing responsible supply chains and making efficient use of resources. We are committed to the responsible sourcing of minerals and metals, and fully support the OECD Guidance for Responsible Supply Chains of Minerals from Conflict-affected and High-risk Areas. In this respect, we require our battery suppliers to support our commitment to have full transparency of our cobalt supply chain and to work towards full traceability. \r\n\r\nSustainability performance is a key consideration when assessing and selecting our suppliers. We monitor the performance of existing suppliers and follow up with third party audits. We also put requirements on our battery suppliers to minimise carbon emissions during the production processes, including through the use of renewable energy. All our suppliers have to agree to the Volvo Cars' Code of Conduct for Business Partners, which includes the observation of human rights, including labour rights.",
+                  "cta": null,
+                  "subHeading": ""
+                },
+                "slots": null
+              }
+            ],
+            "text": "",
+            "topic": "",
+            "disableStructuredData": false,
+            "cta": null,
+            "heading": "What do you want to know about the C40 Recharge pure electric?",
+            "showLessText": "Show less"
+          }
+        }
+      ],
+      "energyEfficiencyLabelSlot": [],
+      "disclaimerSlot": [
+        {
+          "renderingParams": {
+            "topOuterSpacing": "",
+            "topInnerSpacing": "",
+            "bottomInnerSpacing": "",
+            "bottomOuterSpacing": "4",
+            "background": ""
+          },
+          "contentType": {
+            "id": "disclaimer",
+            "type": "EditorialComponent"
+          },
+          "sys": {
+            "id": "{2B02DAB7-AC37-4A88-9BC9-6FB2109D684A}",
+            "type": "Entry",
+            "createdAt": "0001-01-01T00:00:00",
+            "updatedAt": "0001-01-01T00:00:00"
+          },
+          "fields": {
+            "disclaimerTexts": [
+              {
+                "contentType": {
+                  "id": "disclaimerText",
+                  "type": "ContentType"
+                },
+                "sys": {
+                  "referenceType": null,
+                  "locale": null,
+                  "id": "955ebff8-795d-4339-9cf7-962b0e6676b8",
+                  "type": "Entry",
+                  "createdAt": "0001-01-01T00:00:00",
+                  "updatedAt": "0001-01-01T00:00:00"
+                },
+                "name": null,
+                "fields": {
+                  "text": "Features depicted may not be standard or available for all equipment levels and powertrain options.\r\n\r\nGoogle, Google Play and Google Maps are trademarks of Google LLC.",
+                  "link": null
+                },
+                "slots": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

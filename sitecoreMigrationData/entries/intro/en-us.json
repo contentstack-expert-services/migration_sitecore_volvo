@@ -1,0 +1,74 @@
+{
+    "sitecore_entries": {
+        "uid": "sitecore_entries",
+        "title": "Intro",
+        "stats_and_drive_call_outs_slot": [
+            {
+                "editor_component": {
+                    "title": "A pure heart in a daring body. ",
+                    "sub_title": "Get to know our electric crossover.",
+                    "disclaimer": "The figures are preliminary and derived from estimates and calculations performed by Volvo Cars for C40 Recharge twin and these outcomes are not guaranteed. The real-life driving range and energy consumption achieved under real conditions varies depending on driving behaviour and other external factors. Charging times can vary and are dependent on factors such as outdoor temperature, current battery temperature, charging equipment, battery condition and car condition. Vehicle certification pending. Open full [Specifications](https://authoring.volvocars.com/master/cars/c40-electric/specification/) to review other powertrain options.",
+                    "bev_or_phev_type": "BEV/PHEV",
+                    "test_drive_btn_label": "Book a test drive",
+                    "_metadata": {
+                        "uid": "cs8712f59576a27bf2"
+                    }
+                }
+            },
+            {
+                "calloutitems": {
+                    "group": [
+                        {
+                            "title": "Fewer charging minutes, more miles",
+                            "description": "Our next generation electric powertrains increase the capacity of your C40 Recharge, giving you longer range and quicker DC fast charging."
+                        },
+                        {
+                            "title": "No compromises",
+                            "description": "The C40 Recharge doesn’t force you to choose between power and responsible driving. Just take your seat, drive away and enjoy the comfort of one pedal drive and smooth acceleration – with zero tailpipe emissions."
+                        },
+                        {
+                            "title": "Rear-wheel agility",
+                            "description": "The C40 Recharge is available with a single or twin motor powertrain. The now rear-wheel drive single powertrain enhances the power and agility of the car, making your ride even more enjoyable."
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "csab362beea25b78d7"
+                    }
+                }
+            },
+            {
+                "statsitems": {
+                    "group": [
+                        {
+                            "attribute": "Electric range",
+                            "unit": "km",
+                            "value": "Up to 507",
+                            "fieldKey": "electric-range-wltp-total"
+                        },
+                        {
+                            "attribute": "Acceleration (0-100 km/h)",
+                            "unit": "s",
+                            "value": "4.7",
+                            "fieldKey": "acceleration"
+                        },
+                        {
+                            "attribute": "Power",
+                            "unit": "hp",
+                            "value": "408",
+                            "fieldKey": "horsepower"
+                        },
+                        {
+                            "attribute": "Fast charge 10-80%",
+                            "unit": "min",
+                            "value": "27",
+                            "fieldKey": "batteryChargingDurationDc150kw"
+                        }
+                    ],
+                    "_metadata": {
+                        "uid": "cs2083b747b8697e18"
+                    }
+                }
+            }
+        ]
+    }
+}

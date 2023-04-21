@@ -1,0 +1,32 @@
+{
+    "assets_c40-bev-interiorhero-1x1": {
+        "failedUid": "c40-bev-interiorhero-1x1",
+        "name": "c40-bev-interiorhero-1x1",
+        "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-interiorhero-1x1.jpg?h=1080&iar=0&w=1080",
+        "reason_for_error": "read ECONNRESET"
+    },
+    "assets_c40-bev-specshighlight-4x3": {
+        "failedUid": "c40-bev-specshighlight-4x3",
+        "name": "c40-bev-specshighlight-4x3",
+        "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-specshighlight-4x3.jpg?h=1440&iar=0&w=1920",
+        "reason_for_error": "read ECONNRESET"
+    },
+    "assets_c40-bev-hero-21x9": {
+        "failedUid": "c40-bev-hero-21x9",
+        "name": "c40-bev-hero-21x9",
+        "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-21x9.jpg?h=1096&iar=0&w=2560",
+        "reason_for_error": "read ECONNRESET"
+    },
+    "assets_c40-bev-hero-1x1": {
+        "failedUid": "c40-bev-hero-1x1",
+        "name": "c40-bev-hero-1x1",
+        "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-hero-1x1.jpg?h=1080&iar=0&w=1080",
+        "reason_for_error": "read ECONNRESET"
+    },
+    "assets_c40-bev-interiorhero-21x9": {
+        "failedUid": "c40-bev-interiorhero-21x9",
+        "name": "c40-bev-interiorhero-21x9",
+        "url": "https://www.volvocars.com/images/v/-/media/applications/pdpspecificationpage/my24/c40-electric/pdp/c40-bev-interiorhero-21x9.jpg?h=1096&iar=0&w=2560",
+        "reason_for_error": "read ECONNRESET"
+    }
+}

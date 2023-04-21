@@ -1,0 +1,9 @@
+{
+  "wordpress": {
+    "promptFileName": "Enter File Name",
+    "promptFilePath": "Enter File Path (eg: C:/home/admin/filePath)",
+    "promptXmlError": "Use only .xml Extension file only",
+    "promptSqlError": "Use only .sql Extension file only",
+    "promptXMLDescription": "For WordPress export, refer this doc -> https://wordpress.com/export/"
+  }
+}

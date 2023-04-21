@@ -1,0 +1,87 @@
+{"level":"info","message":"Migrating languages"}
+{"level":"info","message":"No Languages Found"}
+{"level":"info","message":"Migrating environment"}
+{"level":"info","message":"No Environment Found"}
+{"level":"info","message":"Migrating assets"}
+{"level":"info","message":"No folders were found at: C:\\Users\\Viranch Dave\\Downloads\\Sitecore (Volvo Cars) 2\\_backup_290\\assets\\folders.json"}
+{"level":"info","message":"Completed asset import of batch no: 1"}
+{"level":"info","message":"Completed asset import of batch no: 12"}
+{"level":"info","message":"Completed asset import of batch no: 11"}
+{"level":"info","message":"Completed asset import of batch no: 10"}
+{"level":"info","message":"Completed asset import of batch no: 9"}
+{"level":"info","message":"Completed asset import of batch no: 8"}
+{"level":"info","message":"Completed asset import of batch no: 7"}
+{"level":"info","message":"Completed asset import of batch no: 6"}
+{"level":"info","message":"Completed asset import of batch no: 5"}
+{"level":"info","message":"Completed asset import of batch no: 4"}
+{"level":"info","message":"Completed asset import of batch no: 3"}
+{"level":"info","message":"Completed asset import of batch no: 2"}
+{"level":"info","message":"12 assets uploaded successfully!"}
+{"level":"info","message":"Migrating extensions"}
+{"level":"info","message":"No Extensions Found"}
+{"level":"info","message":"Migrating global-fields"}
+{"level":"info","message":"No globalfields Found"}
+{"level":"info","message":"Started to seed content types"}
+{"level":"info","message":"Created content types"}
+{"level":"info","message":"Started to update content types with references"}
+{"level":"info","message":"Migrating languages"}
+{"level":"info","message":"No Languages Found"}
+{"level":"info","message":"Migrating environment"}
+{"level":"info","message":"No Environment Found"}
+{"level":"info","message":"Migrating assets"}
+{"level":"info","message":"No folders were found at: C:\\Users\\Viranch Dave\\Downloads\\Sitecore (Volvo Cars) 2\\_backup_178\\assets\\folders.json"}
+{"level":"info","message":"Completed asset import of batch no: 1"}
+{"level":"info","message":"Completed asset import of batch no: 12"}
+{"level":"info","message":"Asset upload failed \nError: socket hang up error"}
+{"level":"info","message":"Completed asset import of batch no: 11"}
+{"level":"info","message":"Asset upload failed \nError: socket hang up error"}
+{"level":"info","message":"Completed asset import of batch no: 10"}
+{"level":"info","message":"Completed asset import of batch no: 9"}
+{"level":"info","message":"Completed asset import of batch no: 8"}
+{"level":"info","message":"Completed asset import of batch no: 7"}
+{"level":"info","message":"Completed asset import of batch no: 6"}
+{"level":"info","message":"Completed asset import of batch no: 5"}
+{"level":"info","message":"Completed asset import of batch no: 4"}
+{"level":"info","message":"Completed asset import of batch no: 3"}
+{"level":"info","message":"Completed asset import of batch no: 2"}
+{"level":"info","message":"10 assets uploaded successfully!"}
+{"level":"info","message":"Migrating extensions"}
+{"level":"info","message":"No Extensions Found"}
+{"level":"info","message":"Migrating global-fields"}
+{"level":"info","message":"No globalfields Found"}
+{"level":"info","message":"Started to seed content types"}
+{"level":"info","message":"Created content types"}
+{"level":"info","message":"Started to update content types with references"}
+{"level":"info","message":"intro updated with references"}
+{"level":"info","message":"Updated content types with references"}
+{"level":"info","message":"Content types imported successfully"}
+{"level":"info","message":"Migrating custom-roles"}
+{"level":"info","message":"Migrating workflows"}
+{"level":"info","message":"No workflow Found"}
+{"level":"info","message":"Migrating entries"}
+{"level":"info","message":"Suppressing content type reference fields"}
+{"level":"info","message":"Completed suppressing content type reference fields"}
+{"level":"info","message":"Starting to create entries en-us locale"}
+{"level":"info","message":"Creating entries for content type intro in language en-us ..."}
+{"level":"info","message":"1 entries created successfully in intro content type in en-us locale!"}
+{"level":"info","message":"Entries created successfully in 'en-us' language"}
+{"level":"info","message":"Entries created successfully"}
+{"level":"info","message":"No entries without mapped uid found!"}
+{"level":"info","message":"Starting to update entries with references"}
+{"level":"info","message":"Imported entries in 'en-us' language successfully!"}
+{"level":"info","message":"Successfully imported 'en-us' entries!"}
+{"level":"info","message":"Restoring content type changes"}
+{"level":"info","message":"Content type: 'intro' has been restored to its previous glory!"}
+{"level":"info","message":"Re-modified content type schemas to their original form!"}
+{"level":"info","message":"Removing entries from master language which got created by default"}
+{"level":"info","message":"The stack has been eradicated from bugged entries!"}
+{"level":"info","message":"Updating the field rules of content type"}
+{"level":"info","message":"Entries have been imported successfully!"}
+{"level":"info","message":"Publishing entries"}
+{"level":"info","message":"All the entries have been published successfully"}
+{"level":"info","message":"Migrating labels"}
+{"level":"info","message":"No Label Found"}
+{"level":"info","message":"Migrating webhooks"}
+{"level":"info","message":"No Webhooks Found"}
+{"level":"info","message":"Data has been imported to stack Volvo Test 2  succesfully!"}
+{"level":"info","message":"The log for this is stored at C:\\Users\\Viranch Dave\\Downloads\\Sitecore (Volvo Cars) 2\\Sitecore (Volvo Cars)\\sitecoreMigrationData\\logs\\import"}
